@@ -1,6 +1,6 @@
 // Quiz.js
 import React from 'react'
-import './Quiz.css'
+import './quiz.css'
 
 export default class Quiz extends React.Component{
     render(){
